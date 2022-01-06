@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReaderApp</string>
+    <string name="logo_text">A. Reader</string>
+    <string name="splash_text">Read. Change. Yourself.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User?</string>
+    <string name="create_account">Create Account</string>
+    <string name="instructions_create_acc"> Please enter a valid email and password at least that is ar least 6 characters</string>
+    <string name="sure">Are you sure you want to delete this book?</string>
+    <string name="action">This action is not reversible</string>
+</resources>
